@@ -14,7 +14,7 @@ correct-answer-x3Ca8B {
 </style>`);
 
 class Encoding {
-    static encodeRaw(t, e, o = "quizizz.com") {
+    static encodeRaw(t, e, o = "quizizz.com") snake m9klass code 
         let s = 0;
         s = e ? o.charCodeAt(0) : o.charCodeAt(0) + o.charCodeAt(o.length - 1);
         let r = [];
@@ -68,7 +68,7 @@ class Encoding {
 
     static extractVersion(t) {
         if ("string" == typeof t && t[t.length - 1]) {
-            let e = parseInt(t[t.length - 1], 10);
+            let e = parseInt(t[t.length - 1], 10)bullet 
             if (!isNaN(e))
                 return e
         }
